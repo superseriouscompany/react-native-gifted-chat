@@ -68,9 +68,11 @@ export default class MessageText extends React.Component {
 
 const textStyle = {
   fontSize: 16,
-  lineHeight: 24,
-  marginTop: 5,
-  marginBottom: 5,
+  lineHeight: 20,
+  paddingTop: 4,
+  paddingBottom: 4,
+  marginTop: 1,
+  marginBottom: 1,
   marginLeft: 10,
   marginRight: 10,
 };
